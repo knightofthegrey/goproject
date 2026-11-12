@@ -1,0 +1,11 @@
+/* Cell style definition */
+.cell {
+    min-width: 30px;
+    max-width: 30px;
+    height: 30px;
+    padding: 0 16px;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+}
